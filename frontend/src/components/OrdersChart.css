@@ -1,0 +1,12 @@
+.orders-chart-container {
+  height: 400px;
+  position: relative;
+}
+
+.chart-empty {
+  text-align: center;
+  padding: 3rem;
+  color: #666;
+  font-style: italic;
+}
+
